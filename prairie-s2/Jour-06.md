@@ -4,14 +4,14 @@
 
 ### Maquettage : 
 
-* [ ] Découvrir le maquettage fonctionnel (wireframe)
-* [ ] Choix d’un outil de maquettage
-* [ ] Reformulation et synthèse des demandes utilisateurs
+* [x] Découvrir le maquettage fonctionnel (wireframe)
+* [x] Choix d’un outil de maquettage
+* [x] Reformulation et synthèse des demandes utilisateurs
 
 
 ### Découverte du Markdown : 
 
-* [ ] Comprendre l'intérêt du Markdown
+* [x] Comprendre l'intérêt du Markdown
 * [ ] Découvrir les balises de bases : 
   * [ ] Titres
   * [ ] Images
