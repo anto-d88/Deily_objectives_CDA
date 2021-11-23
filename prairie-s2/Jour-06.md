@@ -12,22 +12,22 @@
 ### Découverte du Markdown : 
 
 * [x] Comprendre l'intérêt du Markdown
-* [ ] Découvrir les balises de bases : 
-  * [ ] Titres
-  * [ ] Images
-  * [ ] Listes
-  * [ ] Formatage de texte (italique, souligné, gras)
-  * [ ] Code
-  * [ ] Citations
-  * [ ] Tableaux
-  * [ ] Liens
-* [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
+* [x] Découvrir les balises de bases : 
+  * [x] Titres
+  * [x] Images
+  * [x] Listes
+  * [x] Formatage de texte (italique, souligné, gras)
+  * [x] Code
+  * [x] Citations
+  * [x] Tableaux
+  * [x] Liens
+* [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
+* [x] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
 
 
 ### Méthodes agiles :
 
-* [ ] Initiation aux méthodes agiles
-* [ ] Mise en place la méthodologie Scrum
-* [ ] Mise en place du premier projet sur Jira
-* [ ] Découverte de Gitflow
+* [x] Initiation aux méthodes agiles
+* [x] Mise en place la méthodologie Scrum
+* [x] Mise en place du premier projet sur Jira
+* [x] Découverte de Gitflow
