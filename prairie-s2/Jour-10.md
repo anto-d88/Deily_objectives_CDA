@@ -13,4 +13,4 @@
 
 ### Brief :
 
-* [ ] Finaliser le brief de la semaine
+* [x] Finaliser le brief de la semaine
